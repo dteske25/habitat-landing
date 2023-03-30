@@ -19,7 +19,7 @@ function App() {
           flex: "0 0 auto",
         }}
       >
-        <img src="https://via.placeholder.com/1000x600" />
+        <img src="https://via.placeholder.com/1000x600" alt="placeholder" />
       </div>
 
       <div>
